@@ -1,0 +1,1 @@
+gcc Test_glfw.c glad.c -I C:\Users\Leon_\Desktop\GLFW_Test\include -I C:\glfw-3.4.bin.WIN64\include -L./ -lglfw3 -lgdi32 -lopengl32
